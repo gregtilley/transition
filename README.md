@@ -30,11 +30,10 @@ This is a repository for the Transition Strand at Kingston School of Art BA Grap
 
 ### Learning code
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) – great youtube channel for learning Processing (mostly)
-- [Machine Learning for Artists](https://ml4a.github.io/) – collection of resources for using machine learning in artistic practice
+- [Machine Learning for Artists](https://ml4a.net/) – collection of resources for using machine learning in artistic practice
 - [glitch.com](https://glitch.com/) – online code editor with community support
 - [Python for Designers](https://pythonfordesigners.com/) – online manual for learning Python, specifically for designers, working with *Drawbot* as a way to generate vector graphics using code
 - [CSS Tricks resource list](https://css-tricks.com/where-do-you-learn-html-css-in-2020/) – great list of places you could learn to code for the web, lots of different options
-- [Interneting is hard](https://www.internetingishard.com/) – a detailed, online course to teach HTML and CSS for beginners
 - [Nature of code](https://natureofcode.com/) – coding natural systems using Processing
 
 ## Reading
@@ -65,8 +64,6 @@ This is a repository for the Transition Strand at Kingston School of Art BA Grap
 ## Artists / Studios
 
 - [Field](https://field.io/) (London)
-- [Marshmallow Laser Feast](https://www.marshmallowlaserfeast.com/) (London)
-- [Projects by If](https://www.projectsbyif.com/) (London)
 - [Rhizomatiks](https://rhizomatiks.com/en/) (Tokyo)
 - [RNDR](https://rndr.studio/) (The Hague)
 - [Studio Drift](https://www.studiodrift.com/) (Amsterdam)
@@ -85,7 +82,6 @@ This is a repository for the Transition Strand at Kingston School of Art BA Grap
 
 - [algorithms.design](https://algorithms.design)
 - [Creativity &times; Machine Learning](https://mlart.co/)
-- https://github.com/vibertthio/awesome-machine-learning-art
 - [Brutalist website design](https://brutalistwebsites.com/)
 
 
