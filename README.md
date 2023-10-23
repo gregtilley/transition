@@ -69,6 +69,7 @@ This is a repository for the Transition Strand at Kingston School of Art BA Grap
 - [Dries Depoorter](https://driesdepoorter.be/) (Belgium)
 - [Etter Studio](https://etterstudio.com/) (Zurich)
 - [Field](https://field.io/) (London)
+- [Jason Bruges Studio](https://www.jasonbruges.com/) (London)
 - [Modem](http://modem.works/) (Amsterdam)
 - [Onformative](https://onformative.com/) (Berlin)
 - [Refik Anadol](https://refikanadol.com/) (Los Angeles)
@@ -79,6 +80,7 @@ This is a repository for the Transition Strand at Kingston School of Art BA Grap
 - [Studio Moniker](https://studiomoniker.com/) (Amsterdam)
 - [Superflux](https://superflux.in/) (London)
 - [Tactical Tech](https://tacticaltech.org/) (Berlin)
+- [Team Lab](https://www.teamlab.art/) (Tokyo)
 - [Universal Everything](https://www.universaleverything.com/)
 - [Yuri Suzuki](https://yurisuzuki.com/) (London)
 
