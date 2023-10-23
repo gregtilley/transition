@@ -63,9 +63,18 @@ This is a repository for the Transition Strand at Kingston School of Art BA Grap
 
 ## Artists / Studios
 
+- [1024 Architecture](https://www.1024architecture.net/) (Paris)
+- [Accept &amp; Proceed](https://www.acceptandproceed.com/) (London)
+- [Dia Studio](https://dia.tv/) (New York / Chamonix)
+- [Dries Depoorter](https://driesdepoorter.be/) (Belgium)
+- [Etter Studio](https://etterstudio.com/) (Zurich)
 - [Field](https://field.io/) (London)
+- [Modem](http://modem.works/) (Amsterdam)
+- [Onformative](https://onformative.com/) (Berlin)
+- [Refik Anadol](https://refikanadol.com/) (Los Angeles)
 - [Rhizomatiks](https://rhizomatiks.com/en/) (Tokyo)
 - [RNDR](https://rndr.studio/) (The Hague)
+- [Sougwen Chung](https://sougwen.com/) (London / New York / Hong Kong)
 - [Studio Drift](https://www.studiodrift.com/) (Amsterdam)
 - [Studio Moniker](https://studiomoniker.com/) (Amsterdam)
 - [Superflux](https://superflux.in/) (London)
