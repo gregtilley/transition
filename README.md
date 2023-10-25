@@ -1,7 +1,7 @@
 # Transition strand
 > *New Vocabularies in Graphic Design*
 
-This is a repository for the Transition Strand at Kingston School of Art BA Graphic Design level 5. It is a space to share resources and links and other bits of info.
+This is a repository for the Transition Strand at Kingston School of Art, BA Graphic Design, level 5. It is a space to share resources and links and other bits of information.
 
 ## Resources
 
@@ -80,8 +80,11 @@ This is a repository for the Transition Strand at Kingston School of Art BA Grap
 - [Studio Moniker](https://studiomoniker.com/) (Amsterdam)
 - [Superflux](https://superflux.in/) (London)
 - [Tactical Tech](https://tacticaltech.org/) (Berlin)
+- [Taeyoon Choi](https://taeyoonchoi.com/) (Seoul)
 - [Team Lab](https://www.teamlab.art/) (Tokyo)
+- [United Visual Artists](https://www.uva.co.uk/) (London)
 - [Universal Everything](https://www.universaleverything.com/)
+- [Yehwan Song 송예환](https://yhsong.com/) 
 - [Yuri Suzuki](https://yurisuzuki.com/) (London)
 
 ## Galleries / Museums / Publications / Organisations
