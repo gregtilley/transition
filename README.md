@@ -29,6 +29,7 @@ This is a repository for the Transition Strand at Kingston School of Art, BA Gra
 - [ml5js](https://ml5js.org/)
 
 ### Learning code
+- [TRCC](https://timrodenbroeker.de/) - Creative coding courses (paid) from Tim Rodenbroeker
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) – great youtube channel for learning Processing (mostly)
 - [Machine Learning for Artists](https://ml4a.net/) – collection of resources for using machine learning in artistic practice
 - [glitch.com](https://glitch.com/) – online code editor with community support
@@ -65,6 +66,8 @@ This is a repository for the Transition Strand at Kingston School of Art, BA Gra
 
 - [1024 Architecture](https://www.1024architecture.net/) (Paris)
 - [Accept &amp; Proceed](https://www.acceptandproceed.com/) (London)
+- [Brendan Dawes](https://brendandawes.com/) (UK)
+- [Common Works](https://commonworks.co.uk/) (London)
 - [Dia Studio](https://dia.tv/) (New York / Chamonix)
 - [Dries Depoorter](https://driesdepoorter.be/) (Belgium)
 - [Etter Studio](https://etterstudio.com/) (Zurich)
@@ -72,6 +75,7 @@ This is a repository for the Transition Strand at Kingston School of Art, BA Gra
 - [Jason Bruges Studio](https://www.jasonbruges.com/) (London)
 - [Modem](http://modem.works/) (Amsterdam)
 - [Onformative](https://onformative.com/) (Berlin)
+- [Random International](https://www.random-international.com/) (London)
 - [Refik Anadol](https://refikanadol.com/) (Los Angeles)
 - [Rhizomatiks](https://rhizomatiks.com/en/) (Tokyo)
 - [RNDR](https://rndr.studio/) (The Hague)
