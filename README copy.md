@@ -1,25 +1,28 @@
-# Transition strand
-> *New Vocabularies in Graphic Design*
+# Emerge strand
+> *Emerging technologies + design*
 
-This is a repository for the Transition Strand at Kingston School of Art, BA Graphic Design, level 5. It is a space to share resources and links and other bits of information.
+This is a repository for the Emerge Strand at Kingston School of Art BA Graphic Design level 5. It is a space to share resources and links and other bits of info.
 
 ## Resources
 
-## Tools
+### Creative coding tools
 
-### Creative coding
-
-- [p5js](https://p5js.org/) – A JavaScript version of Processing, for the web
-- [Touch Designer](https://derivative.ca/) – Node-based visual programming for interaction
 - [Processing](https://processing.org/) – Create code 'sketches' that allow you explore interactivity, work with hardware and a lot more
-- [Open Frameworks](https://openframeworks.cc/) – Interative coding in C++
+- [Node Box](https://www.nodebox.net/) – Node-based visual coding, for creating generative visuals and working with data
 - [Max MSP](https://cycling74.com/) – Visual programming for sound/music/multimedia
+- [OPENRNDR](https://openrndr.org/) – Open Source framework for creative coding
+- [Touch Designer](https://derivative.ca/) – Node-based visual programming for interaction
+- [Open Frameworks](https://openframeworks.cc/) – Interative coding in C++
 
 ### Web-based creative coding
+
+- [p5js](https://p5js.org/) – A JavaScript version of Processing, for the web
 - [Nodes](https://nodes.io/) – Nodes is a JavaScript-based 2D canvas for computational thinking
 - [Glitch](https://glitch.com/) – Coding in the browser, with tutorials and community
 - [three.js](https://threejs.org/) – 3d JavaScript library
 - [A-Frame](https://aframe.io/) – VR in the browser
+- [paper.js](http://paperjs.org/) – JavaScript-based animation/interaction
+- [D3](https://d3js.org/) – Data Driven Documents. Data visualisation library
 
 ### Machine learning tools
 - [Runway ML](https://runwayml.com/)
@@ -28,12 +31,13 @@ This is a repository for the Transition Strand at Kingston School of Art, BA Gra
 - [ml5js](https://ml5js.org/)
 
 ### Learning code
-- [TRCC](https://timrodenbroeker.de/) - Creative coding courses (paid) from Tim Rodenbroeker
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) – great youtube channel for learning Processing (mostly)
-- [Machine Learning for Artists](https://ml4a.net/) – collection of resources for using machine learning in artistic practice
+- [Machine Learning for Artists](https://ml4a.github.io/) – collection of resources for using machine learning in artistic practice
 - [glitch.com](https://glitch.com/) – online code editor with community support
 - [Python for Designers](https://pythonfordesigners.com/) – online manual for learning Python, specifically for designers, working with *Drawbot* as a way to generate vector graphics using code
-- [CSS Tricks resource list](https://css-tricks.com/where-do-you-learn-html-css-in-2020/) – great list of places you could learn to code for the web, lots of different options
+- [Code Academy](https://www.codecademy.com/) – platform with courses for learning a number of programming languages
+- [CSS Tricks resource list](https://css-tricks.com/where-do-you-learn-html-css-in-2019/) – great list of places you could learn to code for the web, lots of different options
+- [Interneting is hard](https://www.internetingishard.com/) – a detailed, online course to teach HTML and CSS for beginners
 - [Nature of code](https://natureofcode.com/) – coding natural systems using Processing
 
 ## Reading
@@ -61,33 +65,35 @@ This is a repository for the Transition Strand at Kingston School of Art, BA Gra
 
 - *Radical Technologies: The Design of Everyday Life* – Adam Greenfield (2017)
 
+## Watching
+
+### AI / Machine Learning
+
+- [Alpha Go](https://www.alphagomovie.com/) (2017)
+- [Machine Learning and (Typo)Graphic Design](https://vimeo.com/ondemand/mlgd) (2020) – this is paid for, on demand content, from Creative Coding Utrecht
+
+### Computation
+
+- [Algorave Generation | Resident Advisor](https://www.youtube.com/watch?v=S2EZqikCIfY)
+
+### Design
+
+- [Objectified – Gary Hustwit](https://www.hustwit.com/objectified) (2009)
+
 ## Artists / Studios
 
-- [1024 Architecture](https://www.1024architecture.net/) (Paris)
-- [Accept &amp; Proceed](https://www.acceptandproceed.com/) (London)
-- [Brendan Dawes](https://brendandawes.com/) (UK)
-- [Common Works](https://commonworks.co.uk/) (London)
-- [Dia Studio](https://dia.tv/) (New York / Chamonix)
-- [Dries Depoorter](https://driesdepoorter.be/) (Belgium)
-- [Etter Studio](https://etterstudio.com/) (Zurich)
 - [Field](https://field.io/) (London)
-- [Jason Bruges Studio](https://www.jasonbruges.com/) (London)
-- [Modem](http://modem.works/) (Amsterdam)
-- [Onformative](https://onformative.com/) (Berlin)
-- [Random International](https://www.random-international.com/) (London)
-- [Refik Anadol](https://refikanadol.com/) (Los Angeles)
+- [Marshmallow Laser Feast](https://www.marshmallowlaserfeast.com/) (London)
+- [Projects by If](https://www.projectsbyif.com/) (London)
 - [Rhizomatiks](https://rhizomatiks.com/en/) (Tokyo)
 - [RNDR](https://rndr.studio/) (The Hague)
-- [Sougwen Chung](https://sougwen.com/) (London / New York / Hong Kong)
 - [Studio Drift](https://www.studiodrift.com/) (Amsterdam)
 - [Studio Moniker](https://studiomoniker.com/) (Amsterdam)
 - [Superflux](https://superflux.in/) (London)
 - [Tactical Tech](https://tacticaltech.org/) (Berlin)
-- [Taeyoon Choi](https://taeyoonchoi.com/) (Seoul)
-- [Team Lab](https://www.teamlab.art/) (Tokyo)
-- [United Visual Artists](https://www.uva.co.uk/) (London)
 - [Universal Everything](https://www.universaleverything.com/)
-- [Yehwan Song 송예환](https://yhsong.com/) 
+- [Variable](https://variable.io/) (London)
+- [YesYesNo](http://www.yesyesno.com/) (New York)
 - [Yuri Suzuki](https://yurisuzuki.com/) (London)
 
 ## Galleries / Museums / Publications / Organisations
@@ -99,6 +105,7 @@ This is a repository for the Transition Strand at Kingston School of Art, BA Gra
 
 - [algorithms.design](https://algorithms.design)
 - [Creativity &times; Machine Learning](https://mlart.co/)
+- https://github.com/vibertthio/awesome-machine-learning-art
 - [Brutalist website design](https://brutalistwebsites.com/)
 
 
