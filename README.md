@@ -104,5 +104,6 @@ This is a repository for the Transition Strand at Kingston School of Art, BA Gra
 
 ## Publishing
 
+- [p5js Riso](https://antiboredom.github.io/p5.riso/) – A code library for Riso Printing using p5js
 - [Open Source Publishing](http://osp.kitchen/)
 - [Pre Post Print](https://prepostprint.org/parsons/)
